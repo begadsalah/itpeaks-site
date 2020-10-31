@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/itpeaks-site/static/css/main.cdf29ad8.chunk.css",
+    "main.js": "/itpeaks-site/static/js/main.13d770d9.chunk.js",
+    "main.js.map": "/itpeaks-site/static/js/main.13d770d9.chunk.js.map",
+    "runtime-main.js": "/itpeaks-site/static/js/runtime-main.7defd78f.js",
+    "runtime-main.js.map": "/itpeaks-site/static/js/runtime-main.7defd78f.js.map",
+    "static/css/2.b276352f.chunk.css": "/itpeaks-site/static/css/2.b276352f.chunk.css",
+    "static/js/2.c64402f9.chunk.js": "/itpeaks-site/static/js/2.c64402f9.chunk.js",
+    "static/js/2.c64402f9.chunk.js.map": "/itpeaks-site/static/js/2.c64402f9.chunk.js.map",
+    "static/js/3.ab9681e8.chunk.js": "/itpeaks-site/static/js/3.ab9681e8.chunk.js",
+    "static/js/3.ab9681e8.chunk.js.map": "/itpeaks-site/static/js/3.ab9681e8.chunk.js.map",
+    "index.html": "/itpeaks-site/index.html",
+    "static/css/2.b276352f.chunk.css.map": "/itpeaks-site/static/css/2.b276352f.chunk.css.map",
+    "static/css/main.cdf29ad8.chunk.css.map": "/itpeaks-site/static/css/main.cdf29ad8.chunk.css.map",
+    "static/js/2.c64402f9.chunk.js.LICENSE.txt": "/itpeaks-site/static/js/2.c64402f9.chunk.js.LICENSE.txt",
+    "static/media/Pyramids2.28ab0dbb.mp4": "/itpeaks-site/static/media/Pyramids2.28ab0dbb.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7defd78f.js",
+    "static/css/2.b276352f.chunk.css",
+    "static/js/2.c64402f9.chunk.js",
+    "static/css/main.cdf29ad8.chunk.css",
+    "static/js/main.13d770d9.chunk.js"
+  ]
+}
