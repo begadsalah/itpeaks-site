@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/itpeaks-site/static/css/main.8e96df3a.chunk.css",
+    "main.css": "/itpeaks-site/static/css/main.a76e4a21.chunk.css",
     "main.js": "/itpeaks-site/static/js/main.d12e868a.chunk.js",
     "main.js.map": "/itpeaks-site/static/js/main.d12e868a.chunk.js.map",
     "runtime-main.js": "/itpeaks-site/static/js/runtime-main.4db3fe55.js",
@@ -12,7 +12,7 @@
     "static/js/3.3a3a273f.chunk.js.map": "/itpeaks-site/static/js/3.3a3a273f.chunk.js.map",
     "index.html": "/itpeaks-site/index.html",
     "static/css/2.b276352f.chunk.css.map": "/itpeaks-site/static/css/2.b276352f.chunk.css.map",
-    "static/css/main.8e96df3a.chunk.css.map": "/itpeaks-site/static/css/main.8e96df3a.chunk.css.map",
+    "static/css/main.a76e4a21.chunk.css.map": "/itpeaks-site/static/css/main.a76e4a21.chunk.css.map",
     "static/js/2.96950c14.chunk.js.LICENSE.txt": "/itpeaks-site/static/js/2.96950c14.chunk.js.LICENSE.txt",
     "static/media/peak.73094411.mp4": "/itpeaks-site/static/media/peak.73094411.mp4",
     "static/media/peak1.c9f1a3ea.gif": "/itpeaks-site/static/media/peak1.c9f1a3ea.gif"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.4db3fe55.js",
     "static/css/2.b276352f.chunk.css",
     "static/js/2.96950c14.chunk.js",
-    "static/css/main.8e96df3a.chunk.css",
+    "static/css/main.a76e4a21.chunk.css",
     "static/js/main.d12e868a.chunk.js"
   ]
 }
