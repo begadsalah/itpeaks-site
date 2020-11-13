@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/itpeaks-site/static/css/main.413539df.chunk.css",
-    "main.js": "/itpeaks-site/static/js/main.26de911b.chunk.js",
-    "main.js.map": "/itpeaks-site/static/js/main.26de911b.chunk.js.map",
+    "main.css": "/itpeaks-site/static/css/main.5bcdf128.chunk.css",
+    "main.js": "/itpeaks-site/static/js/main.d5643db9.chunk.js",
+    "main.js.map": "/itpeaks-site/static/js/main.d5643db9.chunk.js.map",
     "runtime-main.js": "/itpeaks-site/static/js/runtime-main.990d878b.js",
     "runtime-main.js.map": "/itpeaks-site/static/js/runtime-main.990d878b.js.map",
     "static/css/2.b276352f.chunk.css": "/itpeaks-site/static/css/2.b276352f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.5c5cb1e3.chunk.js.map": "/itpeaks-site/static/js/3.5c5cb1e3.chunk.js.map",
     "index.html": "/itpeaks-site/index.html",
     "static/css/2.b276352f.chunk.css.map": "/itpeaks-site/static/css/2.b276352f.chunk.css.map",
-    "static/css/main.413539df.chunk.css.map": "/itpeaks-site/static/css/main.413539df.chunk.css.map",
+    "static/css/main.5bcdf128.chunk.css.map": "/itpeaks-site/static/css/main.5bcdf128.chunk.css.map",
     "static/js/2.3bd27bc9.chunk.js.LICENSE.txt": "/itpeaks-site/static/js/2.3bd27bc9.chunk.js.LICENSE.txt",
     "static/media/begad.ed4eb269.PNG": "/itpeaks-site/static/media/begad.ed4eb269.PNG",
     "static/media/blog-recentPosts-2.8179b7f4.jpg": "/itpeaks-site/static/media/blog-recentPosts-2.8179b7f4.jpg",
@@ -35,7 +35,7 @@
     "static/js/runtime-main.990d878b.js",
     "static/css/2.b276352f.chunk.css",
     "static/js/2.3bd27bc9.chunk.js",
-    "static/css/main.413539df.chunk.css",
-    "static/js/main.26de911b.chunk.js"
+    "static/css/main.5bcdf128.chunk.css",
+    "static/js/main.d5643db9.chunk.js"
   ]
 }
