@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/itpeaks-site/static/css/main.a05ac176.chunk.css",
-    "main.js": "/itpeaks-site/static/js/main.282c6ac6.chunk.js",
-    "main.js.map": "/itpeaks-site/static/js/main.282c6ac6.chunk.js.map",
+    "main.css": "/itpeaks-site/static/css/main.cdd675d5.chunk.css",
+    "main.js": "/itpeaks-site/static/js/main.a313819b.chunk.js",
+    "main.js.map": "/itpeaks-site/static/js/main.a313819b.chunk.js.map",
     "runtime-main.js": "/itpeaks-site/static/js/runtime-main.5c212e39.js",
     "runtime-main.js.map": "/itpeaks-site/static/js/runtime-main.5c212e39.js.map",
     "static/css/2.b276352f.chunk.css": "/itpeaks-site/static/css/2.b276352f.chunk.css",
@@ -12,8 +12,9 @@
     "static/js/3.25365d7e.chunk.js.map": "/itpeaks-site/static/js/3.25365d7e.chunk.js.map",
     "index.html": "/itpeaks-site/index.html",
     "static/css/2.b276352f.chunk.css.map": "/itpeaks-site/static/css/2.b276352f.chunk.css.map",
-    "static/css/main.a05ac176.chunk.css.map": "/itpeaks-site/static/css/main.a05ac176.chunk.css.map",
+    "static/css/main.cdd675d5.chunk.css.map": "/itpeaks-site/static/css/main.cdd675d5.chunk.css.map",
     "static/js/2.5e86c9a5.chunk.js.LICENSE.txt": "/itpeaks-site/static/js/2.5e86c9a5.chunk.js.LICENSE.txt",
+    "static/media/begad.ed4eb269.PNG": "/itpeaks-site/static/media/begad.ed4eb269.PNG",
     "static/media/blog-recentPosts-2.8179b7f4.jpg": "/itpeaks-site/static/media/blog-recentPosts-2.8179b7f4.jpg",
     "static/media/blog-recentPosts-3.90051415.jpg": "/itpeaks-site/static/media/blog-recentPosts-3.90051415.jpg",
     "static/media/blog-recentPosts-4.7015f5ce.jpg": "/itpeaks-site/static/media/blog-recentPosts-4.7015f5ce.jpg",
@@ -22,7 +23,6 @@
     "static/media/blog-recentPosts-7.6f6cc446.jpg": "/itpeaks-site/static/media/blog-recentPosts-7.6f6cc446.jpg",
     "static/media/blog-recentPosts-8.e2315c47.jpg": "/itpeaks-site/static/media/blog-recentPosts-8.e2315c47.jpg",
     "static/media/blog-recentPosts-9.0beb75d8.jpg": "/itpeaks-site/static/media/blog-recentPosts-9.0beb75d8.jpg",
-    "static/media/blog-recentPosts-profilePic2.81566ab2.jpg": "/itpeaks-site/static/media/blog-recentPosts-profilePic2.81566ab2.jpg",
     "static/media/blogLeftsidedown.517c3aec.jpg": "/itpeaks-site/static/media/blogLeftsidedown.517c3aec.jpg",
     "static/media/blogLeftsideup.efd42676.jpg": "/itpeaks-site/static/media/blogLeftsideup.efd42676.jpg",
     "static/media/blogMiddleCenter.c75fc4a6.jpg": "/itpeaks-site/static/media/blogMiddleCenter.c75fc4a6.jpg",
@@ -35,7 +35,7 @@
     "static/js/runtime-main.5c212e39.js",
     "static/css/2.b276352f.chunk.css",
     "static/js/2.5e86c9a5.chunk.js",
-    "static/css/main.a05ac176.chunk.css",
-    "static/js/main.282c6ac6.chunk.js"
+    "static/css/main.cdd675d5.chunk.css",
+    "static/js/main.a313819b.chunk.js"
   ]
 }
