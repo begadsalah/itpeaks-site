@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/itpeaks-site/static/css/main.bfebc434.chunk.css",
-    "main.js": "/itpeaks-site/static/js/main.a54048f1.chunk.js",
-    "main.js.map": "/itpeaks-site/static/js/main.a54048f1.chunk.js.map",
-    "runtime-main.js": "/itpeaks-site/static/js/runtime-main.20c0c568.js",
-    "runtime-main.js.map": "/itpeaks-site/static/js/runtime-main.20c0c568.js.map",
+    "main.css": "/itpeaks-site/static/css/main.8dc29f20.chunk.css",
+    "main.js": "/itpeaks-site/static/js/main.127b3d87.chunk.js",
+    "main.js.map": "/itpeaks-site/static/js/main.127b3d87.chunk.js.map",
+    "runtime-main.js": "/itpeaks-site/static/js/runtime-main.534799cc.js",
+    "runtime-main.js.map": "/itpeaks-site/static/js/runtime-main.534799cc.js.map",
     "static/css/2.b276352f.chunk.css": "/itpeaks-site/static/css/2.b276352f.chunk.css",
-    "static/js/2.ec6d0f45.chunk.js": "/itpeaks-site/static/js/2.ec6d0f45.chunk.js",
-    "static/js/2.ec6d0f45.chunk.js.map": "/itpeaks-site/static/js/2.ec6d0f45.chunk.js.map",
-    "static/js/3.02b5eeab.chunk.js": "/itpeaks-site/static/js/3.02b5eeab.chunk.js",
-    "static/js/3.02b5eeab.chunk.js.map": "/itpeaks-site/static/js/3.02b5eeab.chunk.js.map",
+    "static/js/2.01432400.chunk.js": "/itpeaks-site/static/js/2.01432400.chunk.js",
+    "static/js/2.01432400.chunk.js.map": "/itpeaks-site/static/js/2.01432400.chunk.js.map",
+    "static/js/3.39ac4d30.chunk.js": "/itpeaks-site/static/js/3.39ac4d30.chunk.js",
+    "static/js/3.39ac4d30.chunk.js.map": "/itpeaks-site/static/js/3.39ac4d30.chunk.js.map",
     "index.html": "/itpeaks-site/index.html",
     "static/css/2.b276352f.chunk.css.map": "/itpeaks-site/static/css/2.b276352f.chunk.css.map",
-    "static/css/main.bfebc434.chunk.css.map": "/itpeaks-site/static/css/main.bfebc434.chunk.css.map",
-    "static/js/2.ec6d0f45.chunk.js.LICENSE.txt": "/itpeaks-site/static/js/2.ec6d0f45.chunk.js.LICENSE.txt",
+    "static/css/main.8dc29f20.chunk.css.map": "/itpeaks-site/static/css/main.8dc29f20.chunk.css.map",
+    "static/js/2.01432400.chunk.js.LICENSE.txt": "/itpeaks-site/static/js/2.01432400.chunk.js.LICENSE.txt",
     "static/media/index.css": "/itpeaks-site/static/media/Comfortaa-Regular.886fcced.ttf",
     "static/media/begad1.48097014.png": "/itpeaks-site/static/media/begad1.48097014.png",
     "static/media/blog-recentPosts-2.8179b7f4.jpg": "/itpeaks-site/static/media/blog-recentPosts-2.8179b7f4.jpg",
@@ -59,10 +59,10 @@
     "static/media/ziad.569d8b90.png": "/itpeaks-site/static/media/ziad.569d8b90.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.20c0c568.js",
+    "static/js/runtime-main.534799cc.js",
     "static/css/2.b276352f.chunk.css",
-    "static/js/2.ec6d0f45.chunk.js",
-    "static/css/main.bfebc434.chunk.css",
-    "static/js/main.a54048f1.chunk.js"
+    "static/js/2.01432400.chunk.js",
+    "static/css/main.8dc29f20.chunk.css",
+    "static/js/main.127b3d87.chunk.js"
   ]
 }
